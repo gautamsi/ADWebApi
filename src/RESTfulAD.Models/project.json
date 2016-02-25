@@ -1,0 +1,25 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "RESTfulAD.Models Class Library",
+  "authors": [ "Gautam" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net46": {
+      "frameworkAssemblies": {
+        "System.DirectoryServices.AccountManagement": "4.0.0.0",
+        "System.DirectoryServices": "4.0.0.0"
+      }
+    },
+    "dnx451": {
+      "frameworkAssemblies": {
+        "System.DirectoryServices.AccountManagement": "4.0.0.0",
+        "System.DirectoryServices": "4.0.0.0"
+      }
+    }
+  },
+  "dependencies": {
+    "Newtonsoft.Json": "8.0.2"
+  }
+}

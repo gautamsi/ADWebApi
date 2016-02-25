@@ -1,2 +1,2 @@
 # RESTfulAD
-REST api to access Active Directory
+Asp.net Core Web Api to access Active Directory
